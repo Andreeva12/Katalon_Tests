@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Smoke_Login" time="27.528" tests="1" failures="0" errors="0">
+   <testsuite name="Smoke_Login" tests="1" failures="0" errors="0" time="27.528" skipped="0" timestamp="02-07-2024T11:03:25" hostname="katea - Kate" id="Test Suites/Smoke_Login">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\katea\\Katalon Studio\\My First BDD Project\\Reports\\20240702_110319\\Smoke_Login\\20240702_110319"/>
+         <property name="logFiles" value="C:\\Users\\katea\\Katalon Studio\\My First BDD Project\\Reports\\20240702_110319\\Smoke_Login\\20240702_110319\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="katea - Kate"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.6.0.217"/>
+         <property name="browser" value="Chrome 126.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.14"/>
+         <property name="sessionId" value="4ce2a5c0c953fddc6aad3881e7abaf75"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/operations/Verify Login" time="27.073" classname="Test Cases/operations/Verify Login" status="PASSED">
+         <system-out><![CDATA[02-07-2024T11:03:25 - [TEST_CASE][PASSED] - Test Cases/operations/Verify Login: Test Cases/operations/Verify Login
+
+02-07-2024T11:03:25 - [TEST_STEP][PASSED] - Start listener action : beforeTestCase: null
+
+02-07-2024T11:03:25 - [TEST_STEP][PASSED] - GLUE = ["common", "operations"]: null
+
+02-07-2024T11:03:26 - [TEST_STEP][PASSED] - runFeatureFolder("Include/features"): All feature files in 'Include/features' were passed
+
+02-07-2024T11:03:26 - [MESSAGE][INFO] - Starting run keyword runFeatureFolder: 'Include/features' and extract report to folder: 'C:\Users\katea\Katalon Studio\My First BDD Project\Reports\20240702_110319\Smoke_Login\20240702_110319/cucumber_report/1719907406107'...
+
+02-07-2024T11:03:26 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-07-2024T11:03:26 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-07-2024T11:03:34 - [MESSAGE][PASSED] - Browser is opened with url: 'https://bigshop.md/'
+
+02-07-2024T11:03:36 - [MESSAGE][PASSED] - Object: 'Object Repository/login Script/Page_BIGSHOP - magazin online in Chisinau si Moldova, gama larga de produse la preturi avantajoase/i_Favorite_navbar-tool-icon ci-user' is clicked on
+
+02-07-2024T11:03:36 - [MESSAGE][PASSED] - Navigate to 'https://bigshop.md/ro/auth/login' successfully
+
+02-07-2024T11:03:39 - [MESSAGE][PASSED] - Text '375447522509@mail.ru' is set on object 'Object Repository/folder Login/Folder Login/Page_Bigshop.md  Internet magazin online de_8c0fb1/input_Logare_email'
+
+02-07-2024T11:03:39 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/folder Login/Folder Login/Page_Bigshop.md  Internet magazin online de_8c0fb1/input_Logare_password'
+
+02-07-2024T11:03:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '5'
+
+02-07-2024T11:03:40 - [MESSAGE][PASSED] - Object 'Object Repository/folder Login/Folder Login/Page_BIGSHOP - magazin online in Chisinau s_407bda/i_Favorite_navbar-tool-icon ci-user' is present
+
+02-07-2024T11:03:40 - [MESSAGE][PASSED] - Object: 'Object Repository/folder Login/Folder Login/Page_Bigshop.md  Internet magazin online de_8c0fb1/button_Logheaz-te' is clicked on
+
+02-07-2024T11:03:41 - [MESSAGE][PASSED] - Browser is closed
+
+02-07-2024T11:03:41 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-07-2024T11:03:41 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-07-2024T11:03:47 - [MESSAGE][PASSED] - Browser is opened with url: 'https://bigshop.md/'
+
+02-07-2024T11:03:48 - [MESSAGE][PASSED] - Object: 'Object Repository/login Script/Page_BIGSHOP - magazin online in Chisinau si Moldova, gama larga de produse la preturi avantajoase/i_Favorite_navbar-tool-icon ci-user' is clicked on
+
+02-07-2024T11:03:49 - [MESSAGE][PASSED] - Navigate to 'https://bigshop.md/ro/auth/login' successfully
+
+02-07-2024T11:03:51 - [MESSAGE][PASSED] - Text '3759@mail.ru' is set on object 'Object Repository/folder Login/Folder Login/Page_Bigshop.md  Internet magazin online de_8c0fb1/input_Logare_email'
+
+02-07-2024T11:03:52 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/folder Login/Folder Login/Page_Bigshop.md  Internet magazin online de_8c0fb1/input_Logare_password'
+
+02-07-2024T11:03:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '5'
+
+02-07-2024T11:03:52 - [MESSAGE][PASSED] - Object 'Object Repository/folder Login/Folder Login/Page_BIGSHOP - magazin online in Chisinau s_407bda/i_Favorite_navbar-tool-icon ci-user' is present
+
+02-07-2024T11:03:52 - [MESSAGE][PASSED] - Object: 'Object Repository/folder Login/Folder Login/Page_Bigshop.md  Internet magazin online de_8c0fb1/button_Logheaz-te' is clicked on
+
+02-07-2024T11:03:52 - [MESSAGE][PASSED] - Browser is closed
+
+02-07-2024T11:03:52 - [MESSAGE][PASSED] - All feature files in 'Include/features' were passed
+
+02-07-2024T11:03:52 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+02-07-2024T11:03:52 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-07-2024T11:03:52 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[02-07-2024T11:03:25 - [TEST_SUITE][PASSED] - Smoke_Login: Test Cases/operations/Verify Login]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

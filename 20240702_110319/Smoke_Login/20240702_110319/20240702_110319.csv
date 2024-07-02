@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Smoke_Login,Chrome 126.0.0.0,,,02-07-2024 11:03:25,02-07-2024 11:03:52,"27,528s",PASSED
+,,,,,,,
+Test Cases/operations/Verify Login,Chrome 126.0.0.0,,,02-07-2024 11:03:25,02-07-2024 11:03:52,"27,073s",PASSED
+Start listener action : beforeTestCase,Chrome 126.0.0.0,,,02-07-2024 11:03:25,02-07-2024 11:03:25,"0,029s",PASSED
+"runFeatureFolder(""Include/features"")",Chrome 126.0.0.0,,,02-07-2024 11:03:26,02-07-2024 11:03:52,"26,929s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 126.0.0.0,,,02-07-2024 11:03:52,02-07-2024 11:03:52,"0,007s",PASSED

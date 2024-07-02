@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Favorite_navbar-tool-icon ci-user</name>
+   <tag></tag>
+   <elementGuidId>bce6efde-86ad-4514-bdd2-c871c377ae25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.navbar-tool-icon.ci-user</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='dropdownMenuUser']/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#dropdownMenuUser</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e2a8c3e9-f6e4-431d-879b-7272f9827a58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navbar-tool-icon ci-user</value>
+      <webElementGuid>c1898002-0cc7-428d-8e27-98480cc7224d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdownMenuUser&quot;)/div[@class=&quot;navbar-tool-icon-box&quot;]/i[@class=&quot;navbar-tool-icon ci-user&quot;]</value>
+      <webElementGuid>c9a8a7c8-fabb-4f4d-9486-bc4ff88d9bc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='dropdownMenuUser']/div/i</value>
+      <webElementGuid>b9b47081-02d8-43a3-a21a-8059c38dfba4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/div/i</value>
+      <webElementGuid>b51b1022-9a60-4c83-bb31-1d2f832ed662</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

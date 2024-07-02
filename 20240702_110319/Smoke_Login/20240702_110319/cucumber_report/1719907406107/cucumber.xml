@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="26.247012">
+    <testcase classname="User Login on Bigshop.md" name="User logs in to Bigshop.md with valid credentials" time="14.543276">
+        <system-out><![CDATA[Given the user opens the browser and navigates to "https://bigshop.md/".....passed
+When the user clicks on the user icon.......................................passed
+Then the user navigates to the login page at "https://bigshop.md/ro/auth/login".passed
+And the user enters their 375447522509@mail.ru and RigbBhfdqODKcAsiUrg+1Q==.passed
+Then the user should see the user icon present on the page..................passed
+And the user clicks on the login button.....................................passed
+And the user closes the browser.............................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="User Login on Bigshop.md" name="User logs in to Bigshop.md with valid credentials 2" time="11.703736">
+        <system-out><![CDATA[Given the user opens the browser and navigates to "https://bigshop.md/".....passed
+When the user clicks on the user icon.......................................passed
+Then the user navigates to the login page at "https://bigshop.md/ro/auth/login".passed
+And the user enters their 3759@mail.ru and RigbBhfdqOBDK95asqKeHw==.........passed
+Then the user should see the user icon present on the page..................passed
+And the user clicks on the login button.....................................passed
+And the user closes the browser.............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
