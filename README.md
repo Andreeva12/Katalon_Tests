@@ -8,5 +8,8 @@ The tests are written in Gherkin and implemented using Katalon Studio. The purpo
 to ensure that users can successfully log in to the website with valid credentials and that the login 
 functionality works as expected under different conditions.
 
+##
+
+![Login Test Screenshot](images/562shots_so.png)
 
 
