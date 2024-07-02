@@ -10,6 +10,6 @@ functionality works as expected under different conditions.
 
 ##
 
-![Login Test Screenshot](images/562shots_so.png)
+![Login Test Screenshot](562shots_so.png)
 
 
